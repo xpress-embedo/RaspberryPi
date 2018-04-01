@@ -6,3 +6,5 @@
 * Serial Basic example of sending and receiving data.
 ## Distance Measurement Project
 * Distance Measurement using HC-SR04 and measured distance is transmitted over serial.
+## PyQt5 Based Projects
+* Simple Hello World Example with Qt Message Box is added.
