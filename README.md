@@ -4,3 +4,5 @@
 * PWM Example: Duty Cycle is taken as input from Python Console and based on that duty cycle is controller.
 ## Serial Project
 * Serial Basic example of sending and receiving data.
+## Distance Measurement Project
+* Distance Measurement using HC-SR04 and measured distance is transmitted over serial.
